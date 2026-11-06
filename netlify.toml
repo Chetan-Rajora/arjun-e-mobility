@@ -1,0 +1,7 @@
+# Static site – no build step. Publish directory is the project root.
+[build]
+  publish = "."
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

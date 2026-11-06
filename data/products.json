@@ -1,0 +1,4518 @@
+{
+ "source": "Tejas EV bulk scooty catalogue (October), dealer price list",
+ "common": {
+  "maxSpeed": "55 km/h (25 km/h lock)",
+  "modes": "3 modes + reverse",
+  "ipRating": "IP67 waterproof",
+  "batteryOptions": "Lead acid / Lithium-ion",
+  "claimedRange": "60–300 km per charge (as printed; depends on battery option)",
+  "chargingTime": "Lithium 2.5 h / Lead 6 h",
+  "removableBattery": "Yes (lithium)",
+  "body": "ABS plastic, 3.5 mm",
+  "paint": "PU finish, premium stickers, alloy wheel",
+  "brakeSystem": "EBS",
+  "frontSuspension": "Telescopic",
+  "rearSuspension": "Coil spring",
+  "lighting": "LED headlight, stylish LED tail light, LED indicators, digital display speedometer",
+  "groundClearance": "190 mm",
+  "gradeability": "14°",
+  "features": [
+   "Keyless entry / security alarm",
+   "Central locking / remote control",
+   "Find-my-scooty / parking mode",
+   "Side foot rest",
+   "Boot space",
+   "Mobile charging",
+   "Floor mat and mirror",
+   "Green number plate",
+   "Mobile app support (optional)",
+   "GPS tracking (optional)",
+   "2 keys"
+  ],
+  "warranty": [
+   "Motor, controller and charger: 1-year repairable warranty from date of purchase (manufacturing defects only)",
+   "Lithium battery: 12 or 36 months, as applicable (manufacturing defects / technical failures under normal operating conditions)",
+   "Lead-acid / graphene battery: manufacturing defects only during the specified warranty period; misuse, deep discharge, water ingress and physical damage excluded"
+  ]
+ },
+ "products": [
+  {
+   "id": "volt",
+   "brand": "TEJAS",
+   "model": "Volt",
+   "descriptor": "Single Light-10 Inch",
+   "rawTitle": "Tejas VOLT (SINGLE LIGHT-10 INCH)",
+   "sourcePage": 7,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 25476,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 36672
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 39371
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 42070
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 43348
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 47616
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 51884
+    }
+   ],
+   "image": "assets/vehicles/volt.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "glide",
+   "brand": "TEJAS",
+   "model": "Glide",
+   "descriptor": "Single Light-12-10 Inch",
+   "rawTitle": "TEJAS GLIDE (SINGLE LIGHT-12-10 INCH)",
+   "sourcePage": 8,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "12-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 25952,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 37148
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 39847
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 42546
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 43824
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 48092
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 52360
+    }
+   ],
+   "image": "assets/vehicles/glide.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "neo",
+   "brand": "TEJAS",
+   "model": "Neo",
+   "descriptor": "Single Light -12 Inch",
+   "rawTitle": "TEJAS NEO (SINGLE LIGHT -12 INCH)",
+   "sourcePage": 9,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "18",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 30714,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 41910
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 44609
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 47308
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 48586
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 52854
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 57122
+    }
+   ],
+   "image": "assets/vehicles/neo.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "spark",
+   "brand": "TEJAS",
+   "model": "Spark",
+   "descriptor": "Double Light-10 Inch",
+   "rawTitle": "TEJAS SPARK (DOUBLE LIGHT-10 INCH)",
+   "sourcePage": 10,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 26429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 37625
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 40324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 43023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 44301
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 48569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 52837
+    }
+   ],
+   "image": "assets/vehicles/spark.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "eon",
+   "brand": "TEJAS",
+   "model": "Eon",
+   "descriptor": "Double Light-12-10 Inch",
+   "rawTitle": "TEJAS EON (DOUBLE LIGHT-12-10 INCH)",
+   "sourcePage": 11,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "12-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 26905,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 38101
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 40800
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 43499
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 44777
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 49045
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 53313
+    }
+   ],
+   "image": "assets/vehicles/eon.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "stride",
+   "brand": "TEJAS",
+   "model": "Stride",
+   "descriptor": "Double Light 12 Inch",
+   "rawTitle": "TEJAS STRIDE (DOUBLE LIGHT 12 INCH)",
+   "sourcePage": 12,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 31667,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "48V/32AH",
+     "warranty": null,
+     "price": 42863
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 45562
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 48261
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "48V/30AH",
+     "warranty": null,
+     "price": 49539
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 53807
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 58075
+    }
+   ],
+   "image": "assets/vehicles/stride.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "aero",
+   "brand": "TEJAS",
+   "model": "Aero",
+   "descriptor": null,
+   "rawTitle": "TEJAS AERO (ACTIVA-CS)",
+   "sourcePage": 13,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 33095,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 46990
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 49689
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 55235
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 59503
+    }
+   ],
+   "image": "assets/vehicles/aero.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "zen",
+   "brand": "TEJAS",
+   "model": "Zen",
+   "descriptor": null,
+   "rawTitle": "TEJAS ZEN (ACTIVA-CS2)",
+   "sourcePage": 14,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 34048,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 47943
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 50642
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 56188
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 60456
+    }
+   ],
+   "image": "assets/vehicles/zen.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "nova",
+   "brand": "TEJAS",
+   "model": "Nova",
+   "descriptor": null,
+   "rawTitle": "TEJAS NOVA (ACTIVA- FH) BIG DIGGY",
+   "sourcePage": 15,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 35000,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 48895
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 51594
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 57140
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 61408
+    }
+   ],
+   "image": "assets/vehicles/nova.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "pulse",
+   "brand": "TEJAS",
+   "model": "Pulse",
+   "descriptor": null,
+   "rawTitle": "TEJAS PULSE (CHETAK-CS-3)",
+   "sourcePage": 16,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 35476,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 49371
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 52070
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 57616
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 61884
+    }
+   ],
+   "image": "assets/vehicles/pulse.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "ion",
+   "brand": "TEJAS",
+   "model": "Ion",
+   "descriptor": null,
+   "rawTitle": "TEJAS ION(ACTIVA) STAR LIGHT",
+   "sourcePage": 17,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 39286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 53181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 55880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 61426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 65694
+    }
+   ],
+   "image": "assets/vehicles/ion.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "breeze-12-12",
+   "brand": "TEJAS",
+   "model": "Breeze 12-12",
+   "descriptor": null,
+   "rawTitle": "TEJAS BREEZE 12-12",
+   "sourcePage": 18,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 35476,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 49371
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 52070
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 57616
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 61884
+    }
+   ],
+   "image": "assets/vehicles/breeze-12-12.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "breeze-pro",
+   "brand": "TEJAS",
+   "model": "Breeze Pro.",
+   "descriptor": null,
+   "rawTitle": "TEJAS BREEZE PRO.",
+   "sourcePage": 19,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 35952,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 49847
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 52546
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 58092
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 62360
+    }
+   ],
+   "image": "assets/vehicles/breeze-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "velocity",
+   "brand": "TEJAS",
+   "model": "Velocity",
+   "descriptor": null,
+   "rawTitle": "TEJAS VELOCITY",
+   "sourcePage": 20,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 37381,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 51276
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53975
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 59521
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 63789
+    }
+   ],
+   "image": "assets/vehicles/velocity.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "nexus",
+   "brand": "TEJAS",
+   "model": "Nexus",
+   "descriptor": null,
+   "rawTitle": "TEJAS NEXUS (BMW)",
+   "sourcePage": 21,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 36429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 50324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 58569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 62837
+    }
+   ],
+   "image": "assets/vehicles/nexus.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "pluse-x",
+   "brand": "TEJAS",
+   "model": "Pluse X",
+   "descriptor": null,
+   "rawTitle": "PLUSE X",
+   "sourcePage": 22,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "22",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 30714,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 44609
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 47308
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 52854
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 57122
+    }
+   ],
+   "image": "assets/vehicles/pluse-x.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Name printed as \"PLUSE X\" in the catalogue; confirm spelling."
+   ]
+  },
+  {
+   "id": "revo",
+   "brand": "TEJAS",
+   "model": "Revo",
+   "descriptor": null,
+   "rawTitle": "REVO",
+   "sourcePage": 23,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "12-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 31667,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 45562
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 48261
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 53807
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 58075
+    }
+   ],
+   "image": "assets/vehicles/revo.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "rock",
+   "brand": "TEJAS",
+   "model": "Rock",
+   "descriptor": null,
+   "rawTitle": "ROCK",
+   "sourcePage": 24,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 47857,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 61752
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 64451
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 69997
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 74265
+    }
+   ],
+   "image": "assets/vehicles/rock.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "quantix",
+   "brand": "TEJAS",
+   "model": "Quantix",
+   "descriptor": null,
+   "rawTitle": "QUANTIX",
+   "sourcePage": 25,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "19",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 29762,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 43657
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 46356
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 51902
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 56170
+    }
+   ],
+   "image": "assets/vehicles/quantix.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "high-rider",
+   "brand": "TEJAS",
+   "model": "High Rider",
+   "descriptor": "Single Light Pro",
+   "rawTitle": "HIGH RIDER (SINGLE LIGHT PRO)",
+   "sourcePage": 26,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "22",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 29762,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 43657
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 46356
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 51902
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 56170
+    }
+   ],
+   "image": "assets/vehicles/high-rider.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "orbit",
+   "brand": "TEJAS",
+   "model": "Orbit",
+   "descriptor": null,
+   "rawTitle": "TEJAS ORBIT (OKINAWA)",
+   "sourcePage": 27,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 39286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 53181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 55880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 61426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 65694
+    }
+   ],
+   "image": "assets/vehicles/orbit.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "circuit",
+   "brand": "TEJAS",
+   "model": "Circuit",
+   "descriptor": null,
+   "rawTitle": "TEJAS CIRCUIT (VESPA U LIGHT)",
+   "sourcePage": 28,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 36429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 50324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 58569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 62837
+    }
+   ],
+   "image": "assets/vehicles/circuit.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "vibe",
+   "brand": "TEJAS",
+   "model": "Vibe",
+   "descriptor": null,
+   "rawTitle": "TEJAS VIBE (VESPA ROUND LIGHT)",
+   "sourcePage": 29,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 32619,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 46514
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 49213
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 54759
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 59027
+    }
+   ],
+   "image": "assets/vehicles/vibe.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "radix",
+   "brand": "TEJAS",
+   "model": "Radix",
+   "descriptor": "Square Light",
+   "rawTitle": "TEJAS RADIX (SQUARE LIGHT)",
+   "sourcePage": 30,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": null,
+   "loadKg": null,
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 33571,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 47466
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 50165
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 55711
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 59979
+    }
+   ],
+   "image": "assets/vehicles/radix.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Chassis weight and load capacity not listed in the catalogue for this model."
+   ]
+  },
+  {
+   "id": "ecoride",
+   "brand": "TEJAS",
+   "model": "Ecoride",
+   "descriptor": "Big Jali",
+   "rawTitle": "TEJAS ECORIDE (BIG JALI)",
+   "sourcePage": 31,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/ecoride.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "verde",
+   "brand": "TEJAS",
+   "model": "Verde",
+   "descriptor": null,
+   "rawTitle": "TEJAS VERDE (VESPA SMALL JALI)",
+   "sourcePage": 32,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 36429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": "1 year",
+     "price": 50324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": "1 year",
+     "price": 53023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/25AH",
+     "warranty": "3 years",
+     "price": 58569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/35AH",
+     "warranty": "3 years",
+     "price": 62837
+    }
+   ],
+   "image": "assets/vehicles/verde.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Battery options differ on this page (60V/32AH, 72V/32AH lead graphene; 60V/25AH, 72V/35AH lithium)."
+   ]
+  },
+  {
+   "id": "storm",
+   "brand": "TEJAS",
+   "model": "Storm",
+   "descriptor": null,
+   "rawTitle": "TEJAS STORM",
+   "sourcePage": 33,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 32619,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 46514
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 49213
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 54759
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 59027
+    }
+   ],
+   "image": "assets/vehicles/storm.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "thunder",
+   "brand": "TEJAS",
+   "model": "Thunder",
+   "descriptor": null,
+   "rawTitle": "TEJAS THUNDER",
+   "sourcePage": 34,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/thunder.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "swift",
+   "brand": "TEJAS",
+   "model": "Swift",
+   "descriptor": null,
+   "rawTitle": "TEJAS SWIFT",
+   "sourcePage": 35,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/swift.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "dash",
+   "brand": "TEJAS",
+   "model": "Dash",
+   "descriptor": null,
+   "rawTitle": "TEJAS DASH",
+   "sourcePage": 36,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 50714,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 64609
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 67308
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 72854
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 77122
+    }
+   ],
+   "image": "assets/vehicles/dash.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "econova",
+   "brand": "TEJAS",
+   "model": "Econova",
+   "descriptor": null,
+   "rawTitle": "TEJAS ECONOVA",
+   "sourcePage": 37,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 48810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 62705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 65404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 70950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 75218
+    }
+   ],
+   "image": "assets/vehicles/econova.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e4-mini",
+   "brand": "TEJAS",
+   "model": "E4 Mini",
+   "descriptor": null,
+   "rawTitle": "TEJAS E4 MINI",
+   "sourcePage": 38,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 36429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 50324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 58569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 62837
+    }
+   ],
+   "image": "assets/vehicles/e4-mini.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "e4-big",
+   "brand": "TEJAS",
+   "model": "E4 Big",
+   "descriptor": null,
+   "rawTitle": "TEJAS E4 BIG",
+   "sourcePage": 39,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 37381,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 51276
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53975
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 59521
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 63789
+    }
+   ],
+   "image": "assets/vehicles/e4-big.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "solis-ld",
+   "brand": "TEJAS",
+   "model": "Solis Ld",
+   "descriptor": null,
+   "rawTitle": "TEJAS SOLIS LD",
+   "sourcePage": 40,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/solis-ld.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "lumina-e",
+   "brand": "TEJAS",
+   "model": "Lumina E",
+   "descriptor": null,
+   "rawTitle": "LUMINA E",
+   "sourcePage": 41,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 39286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 53181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 55880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 61426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 65694
+    }
+   ],
+   "image": "assets/vehicles/lumina-e.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "superblaze-pro",
+   "brand": "TEJAS",
+   "model": "Superblaze Pro",
+   "descriptor": null,
+   "rawTitle": "TEJAS SUPERBLAZE PRO",
+   "sourcePage": 42,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 36429,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 50324
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 53023
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 58569
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 62837
+    }
+   ],
+   "image": "assets/vehicles/superblaze-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "aero-max",
+   "brand": "TEJAS",
+   "model": "Aero Max",
+   "descriptor": null,
+   "rawTitle": "AERO MAX",
+   "sourcePage": 43,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 39286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 53181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 55880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 61426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 65694
+    }
+   ],
+   "image": "assets/vehicles/aero-max.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "bharat",
+   "brand": "TEJAS",
+   "model": "Bharat",
+   "descriptor": null,
+   "rawTitle": "BHARAT",
+   "sourcePage": 44,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 43095,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 56990
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 59689
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 65235
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 69503
+    }
+   ],
+   "image": "assets/vehicles/bharat.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "bharat-pro",
+   "brand": "TEJAS",
+   "model": "Bharat Pro",
+   "descriptor": null,
+   "rawTitle": "BHARAT PRO",
+   "sourcePage": 45,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 46905,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 60800
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 63499
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 69045
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 73313
+    }
+   ],
+   "image": "assets/vehicles/bharat-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "spirit",
+   "brand": "TEJAS",
+   "model": "Spirit",
+   "descriptor": null,
+   "rawTitle": "SPIRIT",
+   "sourcePage": 46,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 45952,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 59847
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 62546
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 68092
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 72360
+    }
+   ],
+   "image": "assets/vehicles/spirit.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "quantum",
+   "brand": "TEJAS",
+   "model": "Quantum",
+   "descriptor": null,
+   "rawTitle": "QUANTUM",
+   "sourcePage": 47,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 28810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 42705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 45404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 50950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 55218
+    }
+   ],
+   "image": "assets/vehicles/quantum.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "drift",
+   "brand": "TEJAS",
+   "model": "Drift",
+   "descriptor": null,
+   "rawTitle": "DRIFT",
+   "sourcePage": 48,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 48810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 62705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 65404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 70950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 75218
+    }
+   ],
+   "image": "assets/vehicles/drift.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "sprint-neo",
+   "brand": "TEJAS",
+   "model": "Sprint Neo",
+   "descriptor": null,
+   "rawTitle": "SPRINT NEO",
+   "sourcePage": 49,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 44048,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 57943
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 60642
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 66188
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 70456
+    }
+   ],
+   "image": "assets/vehicles/sprint-neo.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "tank",
+   "brand": "TEJAS",
+   "model": "Tank",
+   "descriptor": null,
+   "rawTitle": "TANK",
+   "sourcePage": 50,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 49762,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 63657
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 66356
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 71902
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 76170
+    }
+   ],
+   "image": "assets/vehicles/tank.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "surge-pro",
+   "brand": "TEJAS",
+   "model": "Surge Pro",
+   "descriptor": null,
+   "rawTitle": "SURGE PRO",
+   "sourcePage": 51,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/surge-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "flex-pro",
+   "brand": "TEJAS",
+   "model": "Flex Pro",
+   "descriptor": null,
+   "rawTitle": "FLEX PRO",
+   "sourcePage": 52,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 51667,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 65562
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 68261
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 73807
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 78075
+    }
+   ],
+   "image": "assets/vehicles/flex-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "novax",
+   "brand": "TEJAS",
+   "model": "Novax",
+   "descriptor": null,
+   "rawTitle": "NOVAX",
+   "sourcePage": 53,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 49762,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 63657
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 66356
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 71902
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 76170
+    }
+   ],
+   "image": "assets/vehicles/novax.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "gaia-pro",
+   "brand": "TEJAS",
+   "model": "Gaia Pro",
+   "descriptor": null,
+   "rawTitle": "TEJAS GAIA PRO",
+   "sourcePage": 54,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10-10",
+   "frontBrake": "Drum",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 77381,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 91276
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 93975
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 99521
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 103789
+    }
+   ],
+   "image": "assets/vehicles/gaia-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "leaf-king-seater-model",
+   "brand": "TEJAS",
+   "model": "Leaf King",
+   "descriptor": "1 Seater",
+   "rawTitle": "TEJAS LEAF KING (1 SEATER)",
+   "sourcePage": 55,
+   "vehicleType": "Seater model",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10-10",
+   "frontBrake": "Drum",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 67857,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 81752
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 84451
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 89997
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 94265
+    }
+   ],
+   "image": "assets/vehicles/leaf-king-seater-model.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "terra-king-4-wheeler",
+   "brand": "TEJAS",
+   "model": "Terra King",
+   "descriptor": "4- Wheeler",
+   "rawTitle": "TEJAS TERRA KING (4- WHEELER)",
+   "sourcePage": 56,
+   "vehicleType": "4-wheeler",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 84048,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 97943
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 100642
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 101188
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 105456
+    }
+   ],
+   "image": "assets/vehicles/terra-king-4-wheeler.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "zenride-seater-model",
+   "brand": "TEJAS",
+   "model": "Zenride",
+   "descriptor": "2 Seater",
+   "rawTitle": "TEJAS ZENRIDE (2 SEATER)",
+   "sourcePage": 57,
+   "vehicleType": "Seater model",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": null,
+   "loadKg": null,
+   "tyres": "10-10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 80238,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 94133
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 96832
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 102378
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 101646
+    }
+   ],
+   "image": "assets/vehicles/zenride-seater-model.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Chassis weight and load capacity not listed in the catalogue for this model.",
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "sahara-3-wheeler",
+   "brand": "TEJAS",
+   "model": "Sahara",
+   "descriptor": "3-WHEEL Handicapped",
+   "rawTitle": "TEJAS SAHARA (3-WHEEL HANDICAPPED)",
+   "sourcePage": 58,
+   "vehicleType": "3-wheeler",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": null,
+   "loadKg": null,
+   "tyres": "10-10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 46905,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 60800
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 63499
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 69045
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 73313
+    }
+   ],
+   "image": "assets/vehicles/sahara-3-wheeler.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Chassis weight and load capacity not listed in the catalogue for this model.",
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "pristine-loader-2-wheel",
+   "brand": "TEJAS",
+   "model": "Pristine Loader 2 Wheel",
+   "descriptor": null,
+   "rawTitle": "TEJAS PRISTINE LOADER 2 WHEEL",
+   "sourcePage": 59,
+   "vehicleType": "Loader",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 47857,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 61752
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 64451
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 69997
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 74265
+    }
+   ],
+   "image": "assets/vehicles/pristine-loader-2-wheel.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "elan-loader-3-wheeler",
+   "brand": "TEJAS",
+   "model": "Elan Loader 3-WHEELER",
+   "descriptor": null,
+   "rawTitle": "TEJAS ELAN LOADER 3-WHEELER",
+   "sourcePage": 60,
+   "vehicleType": "Loader",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 54524,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 68419
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 71118
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 76664
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 80932
+    }
+   ],
+   "image": "assets/vehicles/elan-loader-3-wheeler.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "elan-loader-3-wheeler-pro",
+   "brand": "TEJAS",
+   "model": "Elan Loader 3-WHEELER Pro",
+   "descriptor": null,
+   "rawTitle": "TEJAS ELAN LOADER 3-WHEELER PRO",
+   "sourcePage": 61,
+   "vehicleType": "Loader",
+   "motorInch": "10",
+   "motorWatts": "1500",
+   "controller": null,
+   "weightKg": null,
+   "loadKg": null,
+   "tyres": "10-10",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 62143,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 76038
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 78737
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 84283
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 88551
+    }
+   ],
+   "image": "assets/vehicles/elan-loader-3-wheeler-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Chassis weight and load capacity not listed in the catalogue for this model.",
+    "Controller rating not provided in catalogue"
+   ]
+  },
+  {
+   "id": "horizon-max",
+   "brand": "TEJAS",
+   "model": "Horizon Max",
+   "descriptor": null,
+   "rawTitle": "HORIZON MAX",
+   "sourcePage": 62,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 45952,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 59847
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 62546
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 68092
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 72360
+    }
+   ],
+   "image": "assets/vehicles/horizon-max.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "horizon-pro",
+   "brand": "TEJAS",
+   "model": "Horizon Pro",
+   "descriptor": null,
+   "rawTitle": "HORIZON PRO",
+   "sourcePage": 63,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/horizon-pro.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "horizon-nano",
+   "brand": "TEJAS",
+   "model": "Horizon Nano",
+   "descriptor": null,
+   "rawTitle": "HORIZON NANO",
+   "sourcePage": 64,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 55476,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 69371
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 72070
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 77616
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 81884
+    }
+   ],
+   "image": "assets/vehicles/horizon-nano.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "ionix",
+   "brand": "TEJAS",
+   "model": "Ionix",
+   "descriptor": null,
+   "rawTitle": "IONIX",
+   "sourcePage": 65,
+   "vehicleType": "Scooter",
+   "motorInch": "10",
+   "motorWatts": "1000",
+   "controller": "35 A, 48/60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 28810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 42705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 45404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 50950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 55218
+    }
+   ],
+   "image": "assets/vehicles/ionix.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "fluxion",
+   "brand": "TEJAS",
+   "model": "Fluxion",
+   "descriptor": null,
+   "rawTitle": "FLUXION",
+   "sourcePage": 66,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Drum",
+   "scootyOnlyPrice": 57381,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 71276
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 73975
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 79521
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 83789
+    }
+   ],
+   "image": "assets/vehicles/fluxion.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "sylix",
+   "brand": "TEJAS",
+   "model": "Sylix",
+   "descriptor": null,
+   "rawTitle": "SYLIX",
+   "sourcePage": 67,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 48810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 62705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 65404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 70950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 75218
+    }
+   ],
+   "image": "assets/vehicles/sylix.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "luxvolt",
+   "brand": "TEJAS",
+   "model": "Luxvolt",
+   "descriptor": null,
+   "rawTitle": "LUXVOLT",
+   "sourcePage": 68,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 42143,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 56038
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 58737
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 64283
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 68551
+    }
+   ],
+   "image": "assets/vehicles/luxvolt.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "aviora",
+   "brand": "TEJAS",
+   "model": "Aviora",
+   "descriptor": null,
+   "rawTitle": "AVIORA",
+   "sourcePage": 69,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 31667,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 45562
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 48261
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 53807
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 58075
+    }
+   ],
+   "image": "assets/vehicles/aviora.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "elentra",
+   "brand": "TEJAS",
+   "model": "Elentra",
+   "descriptor": null,
+   "rawTitle": "ELENTRA",
+   "sourcePage": 70,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 49762,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 63657
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 66356
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 71902
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 76170
+    }
+   ],
+   "image": "assets/vehicles/elentra.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "voltman",
+   "brand": "TEJAS",
+   "model": "Voltman",
+   "descriptor": null,
+   "rawTitle": "VOLTMAN",
+   "sourcePage": 71,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 39286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 53181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 55880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 61426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 65694
+    }
+   ],
+   "image": "assets/vehicles/voltman.webp",
+   "colours": [
+    "Grey",
+    "Yellow",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "aira",
+   "brand": "TEJAS",
+   "model": "Aira",
+   "descriptor": null,
+   "rawTitle": "AIRA",
+   "sourcePage": 72,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/aira.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "aura-x",
+   "brand": "TEJAS",
+   "model": "Aura-x",
+   "descriptor": null,
+   "rawTitle": "AURA-X",
+   "sourcePage": 73,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 45000,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 58895
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 61594
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 67140
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 71408
+    }
+   ],
+   "image": "assets/vehicles/aura-x.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "gia-z",
+   "brand": "TEJAS",
+   "model": "Gia-z",
+   "descriptor": null,
+   "rawTitle": "GIA-Z",
+   "sourcePage": 74,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 52619,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 66514
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 69213
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 74759
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 79027
+    }
+   ],
+   "image": "assets/vehicles/gia-z.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "elite",
+   "brand": "TEJAS",
+   "model": "Elite",
+   "descriptor": null,
+   "rawTitle": "ELITE",
+   "sourcePage": 75,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 38333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 52228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 54927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 60473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 64741
+    }
+   ],
+   "image": "assets/vehicles/elite.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-1",
+   "brand": "TEJAS",
+   "model": "E-1",
+   "descriptor": null,
+   "rawTitle": "E-1",
+   "sourcePage": 76,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 18333,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 32228
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 34927
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 40473
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 44741
+    }
+   ],
+   "image": "assets/vehicles/e-1.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": [
+    "Catalogue photo is low resolution (400x400)."
+   ]
+  },
+  {
+   "id": "e-2",
+   "brand": "TEJAS",
+   "model": "E-2",
+   "descriptor": null,
+   "rawTitle": "E-2",
+   "sourcePage": 77,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 46905,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 60800
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 63499
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 69045
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 73313
+    }
+   ],
+   "image": "assets/vehicles/e-2.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-3",
+   "brand": "TEJAS",
+   "model": "E-3",
+   "descriptor": null,
+   "rawTitle": "E-3",
+   "sourcePage": 78,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 48810,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 62705
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 65404
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 70950
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 75218
+    }
+   ],
+   "image": "assets/vehicles/e-3.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-4",
+   "brand": "TEJAS",
+   "model": "E-4",
+   "descriptor": null,
+   "rawTitle": "E-4",
+   "sourcePage": 79,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 49286,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 63181
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 65880
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 71426
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 75694
+    }
+   ],
+   "image": "assets/vehicles/e-4.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-5",
+   "brand": "TEJAS",
+   "model": "E-5",
+   "descriptor": null,
+   "rawTitle": "E-5",
+   "sourcePage": 80,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 62143,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 76038
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 78737
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 84283
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 88551
+    }
+   ],
+   "image": "assets/vehicles/e-5.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-6",
+   "brand": "TEJAS",
+   "model": "E-6",
+   "descriptor": null,
+   "rawTitle": "E-6",
+   "sourcePage": 81,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 50714,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 64609
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 67308
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 72854
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 77122
+    }
+   ],
+   "image": "assets/vehicles/e-6.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  },
+  {
+   "id": "e-7",
+   "brand": "TEJAS",
+   "model": "E-7",
+   "descriptor": null,
+   "rawTitle": "E-7",
+   "sourcePage": 82,
+   "vehicleType": "Scooter",
+   "motorInch": "12",
+   "motorWatts": "1500",
+   "controller": "35 A, 60/72 V",
+   "weightKg": "26",
+   "loadKg": "180",
+   "tyres": "12-12",
+   "frontBrake": "Disc",
+   "rearBrake": "Disc",
+   "scootyOnlyPrice": 57381,
+   "variants": [
+    {
+     "batteryType": "Lead graphene",
+     "spec": "60V/32AH",
+     "warranty": null,
+     "price": 71276
+    },
+    {
+     "batteryType": "Lead graphene",
+     "spec": "72V/32AH",
+     "warranty": null,
+     "price": 73975
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "60V/30AH",
+     "warranty": null,
+     "price": 79521
+    },
+    {
+     "batteryType": "Lithium",
+     "spec": "72V/30AH",
+     "warranty": null,
+     "price": 83789
+    }
+   ],
+   "image": "assets/vehicles/e-7.webp",
+   "colours": [
+    "Black",
+    "White",
+    "Red",
+    "Silver",
+    "Blue",
+    "Orange"
+   ],
+   "priceBasis": "Dealer (B2B) price, excluding GST, as printed in the Tejas catalogue (October)",
+   "notes": []
+  }
+ ]
+}
